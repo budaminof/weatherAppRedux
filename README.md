@@ -13,4 +13,5 @@ We learned how to use containers in ReactRedux.
 Thank you StephenGrider!
 
 
-### we should have let you finished every sentence. before we were like "you forgot to import!!" / "there is an npm package for converting temperatures! ". you were right. ###
+we should have let you finished every sentence. 
+before we were like "you forgot to import!!" / "there is an npm package for converting temperatures! ". you were right.
