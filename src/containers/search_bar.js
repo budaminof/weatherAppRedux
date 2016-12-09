@@ -45,5 +45,5 @@ class SearchBar extends Component {
 function mapDispatchToProps(dispatch) {
   return bindActionCreators({ fetchWeather }, dispatch);
 }
-
+// need null as first arg only if passing just the second function which is the dispatch.
 export default connect(null, mapDispatchToProps)(SearchBar);
